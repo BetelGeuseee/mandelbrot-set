@@ -24,8 +24,8 @@ This project generates and visualizes the Mandelbrot Set in your terminal using 
 1. Ensure you have [Rust](https://www.rust-lang.org/tools/install) installed.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mandelbrot-set-visualization.git
-   cd mandelbrot-set-visualization
+   git clone https://github.com/your-username/mandelbrot-set.git
+   cd mandelbrot-set
    ```
 3. Install dependencies:
    ```bash
