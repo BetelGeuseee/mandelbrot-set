@@ -8,7 +8,7 @@ This project generates and visualizes the Mandelbrot Set in your terminal using 
 - Easy-to-configure resolution and boundaries.
 
 ## Example Output
-![Mandelbrot Set Example](./mandelbrot_example.png)
+![Screenshot from 2025-01-01 20-59-25](https://github.com/user-attachments/assets/0cf6af86-7e7b-4f4f-878f-01c5d87d1172)
 
 ## How It Works
 1. **Complex Plane Mapping**:
